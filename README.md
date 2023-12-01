@@ -1,3 +1,3 @@
 # chess.cairo
 
-A Cairo contract to play simple p2p game.
+A Cairo contract to play simple pvp game.
